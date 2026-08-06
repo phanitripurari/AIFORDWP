@@ -1,0 +1,2 @@
+[2026-08-05 06:20:19] [INFO] Run started. Mode=rollback DryRun=False OlderThanDays=0
+[2026-08-05 06:20:19] [ERROR] Rollback mode requires -RollbackId.

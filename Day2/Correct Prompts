@@ -1,0 +1,51 @@
+## wrong prompt
+"write something for the user about their email"
+
+## Correct Prompt
+"Analyze the user's email content and generate a personalized summary explaining what the email is about, why it is important, what actions the user should take, any deadlines or commitments mentioned, potential risks or dependencies, and recommended next steps. Present the information in a professional format with sections for Summary, Key Points, Action Items, Deadlines, and Suggested Response."
+
+
+## wrong prompt
+"you are a helpful assistant who always gives detailed, accurate,
+professional, well-structured, clear and concise answers. Tell me
+about Intune." please rewrite this prompt in a right way.
+
+## Correct Prompt
+"You are a knowledgeable and professional IT expert. Provide detailed, accurate, well-structured, and easy-to-understand explanations. When answering, use clear headings, concise language, and practical examples where relevant. Explain Microsoft Intune comprehensively, including its purpose, core capabilities, device management, application management, security features, integration with Microsoft 365, common deployment scenarios, licensing considerations, and best practices for enterprise environments."
+
+## wrong prompt
+"A user says their laptop is slow. What is the problem and fix it."
+
+## Correct Prompt
+You are a Desktop Support Engineer. A user states: 'My laptop is slow.' Perform a structured troubleshooting analysis. Consider hardware, operating system, application, network, security, and user-behavior factors. Generate a probable cause analysis, recommended troubleshooting workflow, remediation actions, and escalation criteria.
+
+## wrong prompt
+"List every possible reason a Windows 11 device might have any
+kind of issue connecting to any kind of network resource."
+
+## Correct Prompt
+You are an Enterprise Desktop Support and Network Escalation Engineer. Create a detailed troubleshooting guide for Windows 11 network connectivity issues. The guide should help support engineers investigate why a device cannot access internet sites, internal portals, file shares, printers, VPN resources, Microsoft 365 services, Citrix, AVD, RDP, or business applications.
+
+Classify causes by layer: physical, endpoint OS, network adapter, IP/DHCP, DNS, routing, firewall, proxy, VPN, identity/authentication, certificates, endpoint management, security tooling, application configuration, and backend service availability. Include symptoms, diagnostic commands, logs to check, resolution steps, and escalation ownership. Output the result as a professional troubleshooting runbook with tables and step-by-step guidance.
+
+## wrong prompt
+"Rewrite this so it sounds better:
+'Device non-compliant due to BitLocker not enabled. Remediation
+applied. Compliance restored.'"
+
+## Correct Prompt
+"Rewrite the following technical status update in a more professional, concise, and polished manner suitable for IT operations, incident management, or compliance reporting. Maintain the original meaning while improving clarity and readability."
+
+Text:
+ "Device non-compliant due to BitLocker not enabled. Remediation applied. Compliance restored."
+
+## wrong prompt
+"You are a senior DWP engineer with 20 years experience. A user
+cannot log in. Solve this completely and give me the guaranteed fix."
+
+## Correct Prompt
+"You are a Senior Digital Workplace (DWP) Engineer with 20 years of experience in End User Computing, Windows, Microsoft 365, Active Directory, Entra ID, Intune, networking, and endpoint support. A user reports that they cannot log in to their device, application, or corporate environment.
+
+Perform a structured troubleshooting analysis to identify all plausible root causes based on the available information. Consider authentication, identity, endpoint, network, security, policy, application, and infrastructure-related factors.
+
+Do not assume a single cause. Instead, explain the most likely causes, the reasoning behind each possibility, the diagnostic steps required to validate them, and the recommended remediation actions.

@@ -1,0 +1,7 @@
+[2026-08-05 05:21:23] [INFO] Run started. Mode=cleanup DryRun=True OlderThanDays=0
+[2026-08-05 05:21:23] [INFO] File age cutoff timestamp: 08/05/2026 05:21:23
+[2026-08-05 05:21:23] [INFO] Scanned '.\Day3', found candidates: 3
+[2026-08-05 05:21:23] [INFO] DRYRUN would remove: C:\Users\labuser\Documents\Training\Day3\endpoint-health-report.ps1
+[2026-08-05 05:21:23] [INFO] DRYRUN would remove: C:\Users\labuser\Documents\Training\Day3\temp-cleanup-safe.ps1
+[2026-08-05 05:21:23] [INFO] DRYRUN would remove: C:\Users\labuser\Documents\Training\Day3\temp-cleanup-safe-README.md
+[2026-08-05 05:21:24] [INFO] Run finished.

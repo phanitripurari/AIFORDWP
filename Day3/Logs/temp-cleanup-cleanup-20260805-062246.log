@@ -1,0 +1,8 @@
+[2026-08-05 06:22:46] [INFO] Run started. Mode=cleanup DryRun=True OlderThanDays=0
+[2026-08-05 06:22:46] [INFO] File age cutoff timestamp: 08/05/2026 06:22:46
+[2026-08-05 06:22:46] [INFO] Scanned 'C:\Users\labuser\AppData\Local\Temp\2', found candidates: 3
+[2026-08-05 06:22:46] [INFO] Scanned 'C:\Windows\Temp', found candidates: 0
+[2026-08-05 06:22:46] [INFO] DRYRUN would remove: C:\Users\labuser\AppData\Local\Temp\2\6b8e40df-d348-4fac-a670-695dcbc81fc9.tmp
+[2026-08-05 06:22:46] [INFO] DRYRUN would remove: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+[2026-08-05 06:22:46] [INFO] DRYRUN would remove: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+[2026-08-05 06:22:46] [INFO] Run finished.

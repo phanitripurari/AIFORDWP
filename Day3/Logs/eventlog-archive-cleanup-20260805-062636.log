@@ -1,0 +1,5 @@
+[2026-08-05 06:26:36] [INFO] Run started. Mode=cleanup DryRun=True OlderThanDays=3
+[2026-08-05 06:26:36] [INFO] Cutoff timestamp: 08/02/2026 06:26:36
+[2026-08-05 06:26:36] [INFO] Log contains recent events and is skipped for safety: Application
+[2026-08-05 06:26:36] [INFO] Log contains recent events and is skipped for safety: System
+[2026-08-05 06:26:36] [INFO] Run finished.
